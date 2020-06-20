@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-Account_and_its_owner_main" target="11" />
+      <module name="Problems-Account_and_its_owner_test" target="11" />
+      <module name="Problems-Accounts_main" target="11" />
+      <module name="Problems-Accounts_test" target="11" />
+      <module name="Problems-Books_main" target="11" />
+      <module name="Problems-Books_test" target="11" />
+      <module name="Problems-Boxes_main" target="11" />
+      <module name="Problems-Boxes_test" target="11" />
+      <module name="Problems-Car_main" target="11" />
+      <module name="Problems-Car_test" target="11" />
+      <module name="Problems-Complex_numbers__1__main" target="11" />
+      <module name="Problems-Complex_numbers__1__test" target="11" />
+      <module name="Problems-Complex_numbers_main" target="11" />
+      <module name="Problems-Complex_numbers_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Does_an_array_contain_N_main" target="11" />
+      <module name="Problems-Does_an_array_contain_N_test" target="11" />
+      <module name="Problems-Geometric_cube_main" target="11" />
+      <module name="Problems-Geometric_cube_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Project_constants_and_methods_main" target="11" />
+      <module name="Problems-Project_constants_and_methods_test" target="11" />
+      <module name="Problems-Raise_to_the_power_main" target="11" />
+      <module name="Problems-Raise_to_the_power_test" target="11" />
+      <module name="Problems-Robot_control_main" target="11" />
+      <module name="Problems-Robot_control_test" target="11" />
+      <module name="Problems-Simulating_a_clock_main" target="11" />
+      <module name="Problems-Simulating_a_clock_test" target="11" />
+      <module name="Problems-The_secret_enumeration_main" target="11" />
+      <module name="Problems-The_secret_enumeration_test" target="11" />
+      <module name="Problems-Too_many_cats_main" target="11" />
+      <module name="Problems-Too_many_cats_test" target="11" />
+      <module name="Problems-Triples_main" target="11" />
+      <module name="Problems-Triples_test" target="11" />
+      <module name="Problems-User_main" target="11" />
+      <module name="Problems-User_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
