@@ -8,6 +8,8 @@
       <module name="Problems-Account_and_its_owner_test" target="11" />
       <module name="Problems-Accounts_main" target="11" />
       <module name="Problems-Accounts_test" target="11" />
+      <module name="Problems-Book_main" target="11" />
+      <module name="Problems-Book_test" target="11" />
       <module name="Problems-Books_main" target="11" />
       <module name="Problems-Books_test" target="11" />
       <module name="Problems-Boxes_main" target="11" />
@@ -28,6 +30,8 @@
       <module name="Problems-Geometric_cube_test" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
       <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_main" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_test" target="11" />
       <module name="Problems-Project_constants_and_methods_main" target="11" />
       <module name="Problems-Project_constants_and_methods_test" target="11" />
       <module name="Problems-Raise_to_the_power_main" target="11" />
